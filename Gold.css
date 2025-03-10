@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'Ginto Regular';
+    src: url('https://steveco188.github.io/font/ABCGintoNormal-Regular-Trial-BF651b7b7846685.woff2') format('woff2'); /* Regular */
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ginto Regular Italic';
+    src: url('https://steveco188.github.io/font/ABCGintoNormal-RegularItalic-Trial-BF651b7b781613c.woff2') format('woff2'); /* Regular Italic */
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Ginto Light';
+    src: url('https://steveco188.github.io/font/ABCGintoNormal-Light-Trial-BF651b7b783c2cd.woff2') format('woff2'); /* Light */
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ginto Light Italic';
+    src: url('https://steveco188.github.io/font/ABCGintoNormal-LightItalic-Trial-BF651b7b7805454.woff2') format('woff2'); /* Light Italic */
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Ginto Thin';
+    src: url('https://steveco188.github.io/font/ABCGintoNormal-Thin-Trial-BF651b7b784060c.woff2') format('woff2'); /* Thin */
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ginto Thin Italic';
+    src: url('https://steveco188.github.io/font/ABCGintoNormal-ThinItalic-Trial-BF651b7b7837e74.woff2') format('woff2'); /* Thin Italic */
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Ginto Medium';
+    src: url('https://steveco188.github.io/font/ABCGintoNormal-Medium-Trial-BF651b7b785c106%20(2).woff2') format('woff2'); /* Medium */
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ginto Medium Italic';
+    src: url('https://steveco188.github.io/font/ABCGintoNormal-MediumItalic-Trial-BF651b7b782e49b.woff2') format('woff2'); /* Medium Italic */
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Ginto Bold';
+    src: url('https://steveco188.github.io/font/ABCGintoNormal-Bold-Trial-BF651b7b77d863b.woff2') format('woff2'); /* Bold */
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ginto Bold Italic';
+    src: url('https://steveco188.github.io/font/ABCGintoNormal-BoldItalic-Trial-BF651b7b78375ac.woff2') format('woff2'); /* Bold Italic */
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Ginto Black';
+    src: url('https://steveco188.github.io/font/ABCGintoNormal-Black-Trial-BF651b7b782fcb2.woff2') format('woff2'); /* Black */
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ginto Black Italic';
+    src: url('https://steveco188.github.io/font/ABCGintoNormal-BlackItalic-Trial-BF651b7b77bc17b.woff2') format('woff2'); /* Black Italic */
+    font-weight: 900;
+    font-style: italic;
+}
